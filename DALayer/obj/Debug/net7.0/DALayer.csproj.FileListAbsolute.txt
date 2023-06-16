@@ -1,0 +1,14 @@
+C:\Users\ITI\source\repos\E-Commerce\DALayer\obj\Debug\net7.0\DALayer.csproj.AssemblyReference.cache
+C:\Users\ITI\source\repos\E-Commerce\DALayer\obj\Debug\net7.0\DALayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITI\source\repos\E-Commerce\DALayer\obj\Debug\net7.0\DALayer.AssemblyInfoInputs.cache
+C:\Users\ITI\source\repos\E-Commerce\DALayer\obj\Debug\net7.0\DALayer.AssemblyInfo.cs
+C:\Users\ITI\source\repos\E-Commerce\DALayer\obj\Debug\net7.0\DALayer.csproj.CoreCompileInputs.cache
+C:\Users\ITI\source\repos\E-Commerce\DALayer\bin\Debug\net7.0\DALayer.deps.json
+C:\Users\ITI\source\repos\E-Commerce\DALayer\bin\Debug\net7.0\DALayer.runtimeconfig.json
+C:\Users\ITI\source\repos\E-Commerce\DALayer\bin\Debug\net7.0\DALayer.dll
+C:\Users\ITI\source\repos\E-Commerce\DALayer\bin\Debug\net7.0\DALayer.pdb
+C:\Users\ITI\source\repos\E-Commerce\DALayer\obj\Debug\net7.0\DALayer.dll
+C:\Users\ITI\source\repos\E-Commerce\DALayer\obj\Debug\net7.0\refint\DALayer.dll
+C:\Users\ITI\source\repos\E-Commerce\DALayer\obj\Debug\net7.0\DALayer.pdb
+C:\Users\ITI\source\repos\E-Commerce\DALayer\obj\Debug\net7.0\DALayer.genruntimeconfig.cache
+C:\Users\ITI\source\repos\E-Commerce\DALayer\obj\Debug\net7.0\ref\DALayer.dll

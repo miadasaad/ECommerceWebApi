@@ -1,0 +1,15 @@
+C:\Users\ITI\source\repos\E-Commerce\BLayer\obj\Debug\net7.0\BLayer.csproj.AssemblyReference.cache
+C:\Users\ITI\source\repos\E-Commerce\BLayer\obj\Debug\net7.0\BLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITI\source\repos\E-Commerce\BLayer\obj\Debug\net7.0\BLayer.AssemblyInfoInputs.cache
+C:\Users\ITI\source\repos\E-Commerce\BLayer\obj\Debug\net7.0\BLayer.AssemblyInfo.cs
+C:\Users\ITI\source\repos\E-Commerce\BLayer\obj\Debug\net7.0\BLayer.csproj.CoreCompileInputs.cache
+C:\Users\ITI\source\repos\E-Commerce\BLayer\bin\Debug\net7.0\BLayer.deps.json
+C:\Users\ITI\source\repos\E-Commerce\BLayer\bin\Debug\net7.0\BLayer.dll
+C:\Users\ITI\source\repos\E-Commerce\BLayer\bin\Debug\net7.0\BLayer.pdb
+C:\Users\ITI\source\repos\E-Commerce\BLayer\bin\Debug\net7.0\DALayer.dll
+C:\Users\ITI\source\repos\E-Commerce\BLayer\bin\Debug\net7.0\DALayer.pdb
+C:\Users\ITI\source\repos\E-Commerce\BLayer\obj\Debug\net7.0\BLayer.csproj.CopyComplete
+C:\Users\ITI\source\repos\E-Commerce\BLayer\obj\Debug\net7.0\BLayer.dll
+C:\Users\ITI\source\repos\E-Commerce\BLayer\obj\Debug\net7.0\refint\BLayer.dll
+C:\Users\ITI\source\repos\E-Commerce\BLayer\obj\Debug\net7.0\BLayer.pdb
+C:\Users\ITI\source\repos\E-Commerce\BLayer\obj\Debug\net7.0\ref\BLayer.dll
